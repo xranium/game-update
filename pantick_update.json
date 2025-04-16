@@ -1,32 +1,18 @@
 {
   "current_version": "2.0.1",
-  "store_url": "https://your.store.page/",
+  "store_url": "https://cafebazaar.ir/app/com.Rotena.Pantick",
   "changelog": [
     {
-      "title": "New Features",
+      "title": "!آپدیت جدید",
       "title_color": "#FFA500",
       "content": [
         {
-          "text": "Added new character customization",
+          "text": "اضافه شدن بازی جدید 'زامبی'!",
           "color": "#00FF00"
         },
         {
-          "text": "Implemented weather system",
+          "text": "200 کلمه جدید",
           "color": "#00FF00"
-        }
-      ]
-    },
-    {
-      "title": "Bug Fixes",
-      "title_color": "#FF0000",
-      "content": [
-        {
-          "text": "Fixed inventory stacking issue",
-          "color": "#FFFFFF"
-        },
-        {
-          "text": "Resolved quest progression bug",
-          "color": "#FFFFFF"
         }
       ]
     }
