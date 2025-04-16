@@ -1,6 +1,7 @@
 {
-  "current_version": "2.0.0",
-  "store_url": "https://cafebazaar.ir/app/com.Rotena.Pantick",
+  "current_version": "2.0.1",
+  "bazaar_url": "https://cafebazaar.ir/app/com.Rotena.Pantick",
+  "myket_url": "",
   "changelog": [
     {
       "title": "آپدیت جدید!",
